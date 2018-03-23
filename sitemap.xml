@@ -3,54 +3,54 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://matthiaskammerlohr.github.io/blog/2018/02/06/creating-a-new-theme/</loc>
+    <loc>/blog/2018/02/06/creating-a-new-theme/</loc>
     <lastmod>2018-02-06T12:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://matthiaskammerlohr.github.io/blog/</loc>
-    <lastmod>2018-02-06T12:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://matthiaskammerlohr.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://matthiaskammerlohr.github.io/faq/</loc>
-  </url>
-  
-  <url>
-    <loc>https://matthiaskammerlohr.github.io/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://matthiaskammerlohr.github.io/categories/starting/</loc>
+    <loc>/blog/</loc>
     <lastmod>2018-02-06T12:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://matthiaskammerlohr.github.io/tags/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://matthiaskammerlohr.github.io/tags/theme/</loc>
+    <loc>/faq/</loc>
+  </url>
+  
+  <url>
+    <loc>/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/starting/</loc>
     <lastmod>2018-02-06T12:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://matthiaskammerlohr.github.io/</loc>
+    <loc>/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/theme/</loc>
     <lastmod>2018-02-06T12:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://matthiaskammerlohr.github.io/about/</loc>
+    <loc>/</loc>
+    <lastmod>2018-02-06T12:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
   </url>
   
 </urlset>
