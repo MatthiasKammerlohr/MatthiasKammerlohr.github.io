@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kammerlohr.net</title>
+    <link>https://matthiaskammerlohr.github.io/</link>
+    <description>Recent content on kammerlohr.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>Copyright (c) 2018, Kammerlohr Matthias Impressum</copyright>
+    <lastBuildDate>Tue, 06 Feb 2018 12:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://matthiaskammerlohr.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mein erster Post</title>
+      <link>https://matthiaskammerlohr.github.io/blog/2018/02/06/creating-a-new-theme/</link>
+      <pubDate>Tue, 06 Feb 2018 12:00:00 +0100</pubDate>
+      
+      <guid>https://matthiaskammerlohr.github.io/blog/2018/02/06/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://matthiaskammerlohr.github.io/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://matthiaskammerlohr.github.io/faq/</guid>
+      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
+    </item>
+    
+    <item>
+      <title>Kontakt</title>
+      <link>https://matthiaskammerlohr.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://matthiaskammerlohr.github.io/contact/</guid>
+      <description>Matthias Kammerlohr kontaktieren Sie haben Anmerkungen, Fragen oder Verbesserungsvorschläge?
+Verwenden Sie dazu bitte das Kontaktformular oder schreiben Sie mir eine E-Mail.
+Gerne können Sie mich Ihrem Netzwerk hinzufügen: Xing, LinkedIn Logo etc.</description>
+    </item>
+    
+    <item>
+      <title>Über mich</title>
+      <link>https://matthiaskammerlohr.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://matthiaskammerlohr.github.io/about/</guid>
+      <description>Hallo,
+mein Name ist Matthias, ich bin 29 jahre alt und komme aus Künzing im Landkreis Deggendorf.
+Ich bin einer der Geschäftsführer der SKS-Solutions GmbH und kümmere mich überwiegend um die Themen
+Software-Entwicklung, Cloud/IT-Infrastruktur und Digitalisierung.
+Bereits seit meiner Jugend befasse ich mit den Themen IT-Infrastruktur und Software-Entwicklung.
+Schnell legte sich der Fokus auf aktuelle Technologien wie Virtualisierung, Cloud und Docker sowie
+der dazugehörigen Entwicklung von Software auf basis dieser Dienste.</description>
+    </item>
+    
+  </channel>
+</rss>
