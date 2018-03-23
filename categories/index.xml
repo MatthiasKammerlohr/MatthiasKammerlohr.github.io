@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on kammerlohr.net</title>
-    <link>/categories/</link>
+    <link>https://matthiaskammerlohr.github.io/categories/</link>
     <description>Recent content in Categories on kammerlohr.net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>Copyright (c) 2018, Kammerlohr Matthias Impressum</copyright>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://matthiaskammerlohr.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Starting</title>
-      <link>/categories/starting/</link>
+      <link>https://matthiaskammerlohr.github.io/categories/starting/</link>
       <pubDate>Tue, 06 Feb 2018 12:00:00 +0100</pubDate>
       
-      <guid>/categories/starting/</guid>
+      <guid>https://matthiaskammerlohr.github.io/categories/starting/</guid>
       <description></description>
     </item>
     

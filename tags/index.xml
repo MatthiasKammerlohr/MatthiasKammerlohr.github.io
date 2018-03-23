@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on kammerlohr.net</title>
-    <link>/tags/</link>
+    <link>https://matthiaskammerlohr.github.io/tags/</link>
     <description>Recent content in Tags on kammerlohr.net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>Copyright (c) 2018, Kammerlohr Matthias Impressum</copyright>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://matthiaskammerlohr.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Theme</title>
-      <link>/tags/theme/</link>
+      <link>https://matthiaskammerlohr.github.io/tags/theme/</link>
       <pubDate>Tue, 06 Feb 2018 12:00:00 +0100</pubDate>
       
-      <guid>/tags/theme/</guid>
+      <guid>https://matthiaskammerlohr.github.io/tags/theme/</guid>
       <description></description>
     </item>
     
